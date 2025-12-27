@@ -1,21 +1,56 @@
-MIT License
+## License
 
-Copyright (c) 2025 Rodney Manyakaidze 
+This project is **dual-licensed**.
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+### Non-Commercial Use
+Licensed under the **PolyForm Noncommercial License 1.0.0**.
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+You may use, modify, and share this software **for non-commercial purposes only**, provided attribution is given.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+### Commercial Use
+Commercial use requires a **separate paid license**.
+
+This includes (but is not limited to):
+- SaaS platforms
+- APIs
+- Enterprise systems
+- Paid applications
+- Consulting or training products
+- AI model integration
+
+To obtain a commercial license, contact:
+**viantekeliana@gmail.com**
+
+© 2025 Rodney Manyakaidze (Keliana Vianté). All rights reserved.
+
+Vianté Locality Engine
+© 2025 Rodney Manyakaidze (Keliana Vianté)
+
+This software is dual-licensed.
+
+----------------------------------------------------------------
+NON-COMMERCIAL LICENSE
+----------------------------------------------------------------
+
+This software is licensed under the PolyForm Noncommercial License 1.0.0.
+
+You may obtain a copy of the license at:
+https://polyformproject.org/licenses/noncommercial/1.0.0/
+
+Use of this software is permitted for non-commercial purposes only.
+
+----------------------------------------------------------------
+COMMERCIAL LICENSE
+----------------------------------------------------------------
+
+Commercial use of this software requires a separate written agreement
+with the copyright holder.
+
+Commercial use includes, but is not limited to:
+- Offering the software as part of a paid service
+- Integrating into proprietary or enterprise systems
+- Using it to train or enhance commercial AI models
+- Consulting, licensing, or monetized derivatives
+
+To inquire about a commercial license, contact:
+viantekeliana@gmail.com
